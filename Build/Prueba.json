@@ -1,0 +1,16 @@
+{
+"companyName": "mkt",
+"productName": "BASKETBALL2.0",
+"productVersion": "0.1",
+"dataUrl": "Prueba.data.unityweb",
+"wasmCodeUrl": "Prueba.wasm.code.unityweb",
+"wasmFrameworkUrl": "Prueba.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
